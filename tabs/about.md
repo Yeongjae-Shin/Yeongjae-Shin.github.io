@@ -46,22 +46,8 @@ Wartson Research Data Services(WRDS) 클론코딩
 
 # 📑 Projects
 
-<details>
-<summary>- 쇼공 관리자 페이지</summary>
-<summary>간략소개</summary>
-기간: 진행중
+- 쇼공 관리자 페이지
 
-구성원: 프론트엔드 1명, 백엔드 1명
-
-Skill: React, React Hook, Styled-components, Redux-saga, GraphQL, AWS EC2, AWS S3 등
-
-담당역할(프론트엔드 개발)
-
-- 재고 관리, 회원 관리 및 상품 등록 등 제조사 관리에 필요한 정보 관리 기능
-- AI 어시스턴트를 활용해 제품 등록 시 제조 전문 용어에 익숙하지 않은 소비자를 위한 편의 기능 등
-<summary>링크</summary>
-http://manage.shogong.com/
-</details>
 - WRDS 클론코딩 프로젝트
 
 - Class101(온라인 강의 서비스) 웹사이트 클론코딩 프로젝트
