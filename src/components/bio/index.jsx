@@ -23,19 +23,19 @@ export const Bio = () => (
                 }}
               />
               <div className="author-name">
-                <span className="author-name-prefix">Written by</span>
-                <Link to={'/about'} className="author-name-content">
+                <span className="author-name-prefix">1년차 프론트엔드 개발자.</span>
+                <Link to={'https://yeongjae-shin.github.io/resume'} className="author-name-content">
                   <span>@{author}</span>
                 </Link>
                 <div className="author-introduction">{introduction}</div>
                 <p className="author-socials">
                   {social.instagram && (
-                    <a href={`https://www.instagram.com/${social.instagram}`}>
-                      Instagram
+                    <a href={`https://www.instagram.com/${social.instagram}`} target="_blank" rel="noreferrer">
+                      ✤ Instagram
                     </a>
                   )}
                   {social.github && (
-                    <a href={`https://github.com/${social.github}`}>GitHub</a>
+                    <a href={`https://github.com/${social.github}`} target="_blank" rel="noreferrer">✤ GitHub</a>
                   )}
                   {social.medium && (
                     <a href={`https://medium.com/${social.medium}`}>Medium</a>
@@ -46,13 +46,13 @@ export const Bio = () => (
                     </a>
                   )}
                   {social.facebook && (
-                    <a href={`https://www.facebook.com/${social.facebook}`}>
-                      Facebook
+                    <a href={`https://www.facebook.com/${social.facebook}`} target="_blank" rel="noreferrer">
+                      ✤ Facebook
                     </a>
                   )}
                   {social.linkedin && (
-                    <a href={`https://www.linkedin.com/in/${social.linkedin}/`}>
-                      LinkedIn
+                    <a href={`https://www.linkedin.com/in/${social.linkedin}/`} target="_blank" rel="noreferrer">
+                      ✤ LinkedIn
                     </a>
                   )}
                 </p>
