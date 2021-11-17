@@ -3,7 +3,7 @@ module.exports = {
   description: `1년차 프론트엔드 개발자의 블로그`,
   author: `Yeongjae-Shin`,
   introduction: `새롭고 힙한것이라면 환장하는 사람입니다.`,
-  siteUrl: `https://yeongjae-shin.github.io`, // Your blog site url
+  siteUrl: `https://yeongjae-shin.github.io/`, // Your blog site url
   social: {
     twitter: ``,
     medium: ``,
