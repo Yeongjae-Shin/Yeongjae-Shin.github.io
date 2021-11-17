@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://yeongjae-shin.github.io/자료구조/해시테이블-넌-누구냐/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/JavaScript/실행-컨텍스트-그리고-이벤트루프/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/Web/lighthouse로-웹-페이지-분석해보기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/CS/브라우저의-동작-원리/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/CS/프로세스와-쓰레드에-대해/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/JavaScript/가비지컬렉터의-역할과-동작방식/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/기타/ncp(naver-cloud-platform)을-활용한-카카오-알림톡-보내기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/회고록/눈-떠보니-1년이더라/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/react/렌더링-최적화/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/기타/블로그를-이사했습니다!/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeongjae-shin.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>

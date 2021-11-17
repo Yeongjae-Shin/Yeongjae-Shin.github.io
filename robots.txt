@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yeongjae-shin.github.io/sitemap.xml
+Host: https://yeongjae-shin.github.io
