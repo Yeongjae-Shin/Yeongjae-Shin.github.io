@@ -1,6 +1,6 @@
 module.exports = {
   title: `Yeongjae-Shin.io`,
-  description: `1년차 프론트엔드 개발자의 블로그`,
+  description: `3년차 프론트엔드 개발자의 블로그`,
   author: `Yeongjae-Shin`,
   introduction: `새롭고 힙한것이라면 환장하는 사람입니다.`,
   siteUrl: `https://yeongjae-shin.github.io/`, // Your blog site url
@@ -13,7 +13,14 @@ module.exports = {
     instagram: `__masancityboy`, // Your Instagram account
   },
   icon: `content/assets/felog.png`, // Add your favicon
-  keywords: [`blog`, `javascript`, `typescript`, `next.js`, `react`, `frontend`],
+  keywords: [
+    `blog`,
+    `javascript`,
+    `typescript`,
+    `next.js`,
+    `react`,
+    `frontend`,
+  ],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'Yeongjae-Shin/Yeongjae-Shin.github.io', // Your repository for archive comment
